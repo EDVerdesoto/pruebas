@@ -1,4 +1,6 @@
-![Image](https://github.com/user-attachments/assets/6eea1ab2-5539-4c62-911d-75f0a347322e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6eea1ab2-5539-4c62-911d-75f0a347322e" alt="ESPE Carátula" width="500">
+</p>
 
 <h1 align="center">UNIVERSIDAD DE LAS FUERZAS ARMADAS – ESPE</h1>
 <h3 align="center">Departamento de Ciencias de la Computación</h3>
