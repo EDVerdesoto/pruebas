@@ -1,0 +1,6 @@
+projectKey=JavaPass
+serverUrl=http://localhost:9000
+serverVersion=25.5.0.107428
+dashboardUrl=http://localhost:9000/dashboard?id=JavaPass
+ceTaskId=249cc372-6e65-4ac7-9d75-2094f58d5cf0
+ceTaskUrl=http://localhost:9000/api/ce/task?id=249cc372-6e65-4ac7-9d75-2094f58d5cf0
