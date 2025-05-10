@@ -1,0 +1,6 @@
+projectKey=Angular_pass
+serverUrl=http://localhost:9000
+serverVersion=25.5.0.107428
+dashboardUrl=http://localhost:9000/dashboard?id=Angular_pass
+ceTaskId=aa4b99f6-9257-4ff4-b209-2144e5a85837
+ceTaskUrl=http://localhost:9000/api/ce/task?id=aa4b99f6-9257-4ff4-b209-2144e5a85837

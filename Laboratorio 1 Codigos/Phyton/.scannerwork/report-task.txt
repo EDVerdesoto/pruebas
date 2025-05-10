@@ -1,0 +1,6 @@
+projectKey=Python-Pass
+serverUrl=http://localhost:9000
+serverVersion=25.5.0.107428
+dashboardUrl=http://localhost:9000/dashboard?id=Python-Pass
+ceTaskId=dffff5c8-a33b-4e6f-8f01-ed4f94b7a664
+ceTaskUrl=http://localhost:9000/api/ce/task?id=dffff5c8-a33b-4e6f-8f01-ed4f94b7a664

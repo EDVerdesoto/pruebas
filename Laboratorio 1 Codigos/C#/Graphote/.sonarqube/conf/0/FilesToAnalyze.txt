@@ -1,0 +1,17 @@
+﻿C:\Users\Lenovo\Desktop\Sexto\Pruebas de Software\Talleres\Codigos para probar\C#\Graphote\App.xaml
+C:\Users\Lenovo\Desktop\Sexto\Pruebas de Software\Talleres\Codigos para probar\C#\Graphote\App.xaml.cs
+C:\Users\Lenovo\Desktop\Sexto\Pruebas de Software\Talleres\Codigos para probar\C#\Graphote\AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Sexto\Pruebas de Software\Talleres\Codigos para probar\C#\Graphote\Graficos\ControladoresMat\MathHelper.cs
+C:\Users\Lenovo\Desktop\Sexto\Pruebas de Software\Talleres\Codigos para probar\C#\Graphote\Graficos\Espacio\Camara.cs
+C:\Users\Lenovo\Desktop\Sexto\Pruebas de Software\Talleres\Codigos para probar\C#\Graphote\Graficos\Figuras\FabricaFiguras.cs
+C:\Users\Lenovo\Desktop\Sexto\Pruebas de Software\Talleres\Codigos para probar\C#\Graphote\Graficos\Figuras\FiguraTridimensional.cs
+C:\Users\Lenovo\Desktop\Sexto\Pruebas de Software\Talleres\Codigos para probar\C#\Graphote\Graficos\Figuras\MatrizTransformacion.cs
+C:\Users\Lenovo\Desktop\Sexto\Pruebas de Software\Talleres\Codigos para probar\C#\Graphote\Graficos\Render\ControladorPerspectiva.cs
+C:\Users\Lenovo\Desktop\Sexto\Pruebas de Software\Talleres\Codigos para probar\C#\Graphote\Graficos\Render\Renderizador.cs
+C:\Users\Lenovo\Desktop\Sexto\Pruebas de Software\Talleres\Codigos para probar\C#\Graphote\GUI\ControladorInterfaz.cs
+C:\Users\Lenovo\Desktop\Sexto\Pruebas de Software\Talleres\Codigos para probar\C#\Graphote\MainWindow.xaml.cs
+C:\Users\Lenovo\Desktop\Sexto\Pruebas de Software\Talleres\Codigos para probar\C#\Graphote\VistaTridimensional.cs
+C:\Users\Lenovo\Desktop\Sexto\Pruebas de Software\Talleres\Codigos para probar\C#\Graphote\.gitattributes
+C:\Users\Lenovo\Desktop\Sexto\Pruebas de Software\Talleres\Codigos para probar\C#\Graphote\.gitignore
+C:\Users\Lenovo\Desktop\Sexto\Pruebas de Software\Talleres\Codigos para probar\C#\Graphote\MainWindow.xaml
+C:\Users\Lenovo\Desktop\Sexto\Pruebas de Software\Talleres\Codigos para probar\C#\Graphote\Themes\Generic.xaml
