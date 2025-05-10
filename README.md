@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.espe.edu.ec%2F&psig=AOvVaw0gnfO_yegWWlmBjA8XFPiU&ust=1747003233880000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDQ36n8mY0DFQAAAAAdAAAAABAE" alt="ESPE Logo" width="150">
+  ![Image](https://github.com/user-attachments/assets/6eea1ab2-5539-4c62-911d-75f0a347322e)
 </p>
 
 <h1 align="center">UNIVERSIDAD DE LAS FUERZAS ARMADAS – ESPE</h1>
