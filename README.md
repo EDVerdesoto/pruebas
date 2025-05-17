@@ -20,6 +20,4 @@ La materia de **Pruebas de Software** tiene como objetivo formar en los fundamen
 
 Este repositorio contiene materiales, laboratorios, prácticas y ejemplos relacionados con la asignatura **Pruebas de Software NRC 22431** impartida en la Universidad de las Fuerzas Armadas – ESPE.
 
----
 
-> **Nota:** La imagen del escudo de la ESPE es de uso representativo. Puedes reemplazarla por una versión local si así lo deseas.
